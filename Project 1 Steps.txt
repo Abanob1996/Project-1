@@ -1,0 +1,4 @@
+Project 1 - Deploy a webserver on VM
+
+1.Create Github account, link to VS and create repo
+2. Create Virtual Machine 
