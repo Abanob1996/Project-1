@@ -1,1 +1,0 @@
-This is project 1 where I will deploy a website on a virtual machine.
